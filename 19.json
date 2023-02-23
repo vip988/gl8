@@ -98,9 +98,6 @@
   
   
     {
-      "key": "mgav1.cc",
-      "name": "成人35",
-      "type": 0,
       "api": "https://www.mgav1.cc/api.php/provide/vod/at/xml",
       "searchable": 1,
       "filterable": 1
