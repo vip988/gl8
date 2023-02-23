@@ -32,9 +32,6 @@
     },
    
     {
-      "key": "apilj.com",
-      "name": "成人09",
-      "type": 1,
       "api": "http://apilj.com/api.php/provide/vod/at/json/",
       "searchable": 1,
       "filterable": 1
@@ -84,8 +81,6 @@
    
   
     {
-      "key": "madouse.la",
-      "name": "成人23",
       "type": 1,
       "api": "http://madouse.la/api.php/provide/vod/",
       "searchable": 1,
