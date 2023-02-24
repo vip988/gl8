@@ -193,7 +193,6 @@
 {"key":"*鲨鱼资源","name":"*鲨鱼资源","type":1,"api":"https://shayuapi.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
 {"key":"*速度资源","name":"*速度资源","type":0,"api":"http://www.ggmmzy.com:9999/inc/xml","searchable":0,"quickSearch":0},
 {"key":"*KK写真资源","name":"*KK写真资源","type":1,"api":"https://kkzy.me/api.php/provide/vod/","searchable":0,"quickSearch":0},
-{"key": "push_agent","name": "推送","type": 3,"api": "csp_PushAgent","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://81.68.89.191:16888/json/suiji.php"},
 
 
 {"key":"csp_xpath_czspp","name":"厂长资源(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/TouchFish/OneClickRun/raw/master/MeowXP/czspp.json"},
