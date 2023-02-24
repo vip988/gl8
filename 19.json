@@ -1,20 +1,31 @@
 {
-"wallpaper":"https://picsum.photos/1280/720/?blur=10",
-
-
-//"spider": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar;md5;69ef6396eb2400c03529c7714d96841a",
-"spider": "http://121.5.175.65/maoyingshi999/ziyong/custom_spider0120.jar;md5;f2130bfbefec6a47c41f0163d0642cac",
-
-# 直播
-"lives": [
+  "spider": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar;md5;69ef6396eb2400c03529c7714d96841a",
+  "wallpaper": "https://gao.chuqiuyu.tk",
+  "lives": [
     {
       "name": "直播",
       "type": 0,
       "url": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/txt/adult.txt"
     }
   ],
-
-"sites":[
+  "sites": [
+    {
+      "key": "AList",
+      "name": "AList",
+      "type": 3,
+      "api": "csp_AList",
+      "searchable": 1,
+      "filterable": 1,
+      "changeable": 0,
+      "ext": {
+        "drives": [
+          {
+            "name": "木偶",
+            "server": "https://www.kugutsu.ml"
+          }
+        ]
+      }
+    },
 {"key":"csp_Kunyu77","name":"七七(SP)","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 #18+
 {
