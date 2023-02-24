@@ -81,12 +81,6 @@
     },
    
   
-    {
-      "type": 1,
-      "api": "http://madouse.la/api.php/provide/vod/",
-      "searchable": 1,
-      "filterable": 1
-    },
     
     {
       "key": "xjjzyapi.com",
@@ -97,12 +91,6 @@
       "filterable": 1
     },
   
-  
-    {
-      "api": "https://www.mgav1.cc/api.php/provide/vod/at/xml",
-      "searchable": 1,
-      "filterable": 1
-    },
   
   
  
