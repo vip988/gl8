@@ -1,66 +1,66 @@
 {
-  "spider": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar;md5;69ef6396eb2400c03529c7714d96841a",
-  "wallpaper": "https://gao.chuqiuyu.tk",
-  "lives": [
-    {
-      "name": "直播",
-      "type": 0,
-      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/txt/adult.txt"
-    }
-  ],
-  "sites": [
-    {
-      "key": "AList",
-      "name": "AList",
-      "type": 3,
-      "api": "csp_AList",
-      "searchable": 1,
-      "filterable": 1,
-      "changeable": 0,
-      "ext": {
-        "drives": [
+  “蜘蛛”：“https://mirror.ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar;md5; 69 ef 6396 eb 2400 c 0   3529 c 7714 d 96841 a”，“蜘蛛”：“https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.罐子；md 5；69 ef 6396 eb 2400 c 0  3529 c 7714 d 96841 a”，
+  "壁纸" : "https://gao.chuqiuyu.tk" , "壁纸" : "https://gao.chuqiuyu.tk" ,
+  “生活”：[ “生活” : [
+    { {
+      "姓名": "直播" , "姓名" : "直播" ,
+      “类型”：0，“类型”：0，
+      “url”：“https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/txt/adult.txt” “url”：“https://gh-proxy.txt” txt”com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/txt/adult.txt”
+    }  }
+  ] , ] ,
+  “网站”：[ “站点” : [
+    { {
+      “键”：“AList”，“键”：“AList”，
+      “名称”：“列表”，
+      “类型”：3，
+      “api”：“csp_AList”，
+      “可搜索”：1，
+      “可过滤”：1，
+      “变量”：0，
+      “分机”：{
+        “驱动器”：[
           {
-            "name": "木偶",
-            "server": "https://www.kugutsu.ml"
-          }
-        ]
+            “名称”：“木偶” ,“姓名”: "木偶" ,
+            “服务器”：“https://www.kugutsu.ml” “服务器”：“https://www.kugutsu.ml”
+          }    }
+        ]     ]
       }
-    },
-    {
-      "key": "51smt4.xyz",
-      "name": "水蜜桃",
-      "type": 1,
-      "api": "http://51smt4.xyz/api.php/provide/vod/",
-      "searchable": 1,
-      "filterable": 1
-    },
-    {
-      "key": "精工厂",
-      "name": "精工厂",
-      "type": 0,
-      "api": "https://jgczyapi.com/home/cjapi/kld2/mc/vod/xml",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    {
-      "key": "影库资源",
-      "name": "影库资源",
-      "type": 1,
-      "api": "https://api.ykapi.net/api.php/provide/vod/from/ykm3u8/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    {
-      "key": "91md",
-      "name": "91",
-      "type": 1,
-      "api": "https://91md.me/api.php/provide/vod/from/mdm3u8/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
+    } , } ,
+    {    {
+      "按键" : "51smt4.xyz" ,"按键" : "51smt4.xyz" ,
+      "姓名" : "水蜜桃" , "姓名" : "水蜜桃" ,
+      “类型”：1，“类型”：1 ,
+      “api”：“http:// 51 smt 4 .xyz/api.php/provide/vod/”，“api”：“http:// 51 smt 4 .xyz/api.php/provide/vod/”，
+      “可搜索”：1，“可搜索” : 1 ,
+      “可过滤”：1 “可过滤” : 1
+    } , } ,
+    {  {
+      "key" : "精工厂" , "key" : "精工厂" ,
+      "名称" : "精工厂" , "名称" : "精工厂" ,
+      “类型”：0，"type": 0,
+      "api": "https://jgczyapi.com/home/cjapi/kld2/mc/vod/xml","api": "https://jgczyapi.com/home/cjapi/kld2/mc/vod/xml",
+      “可搜索”：1，"searchable": 1,
+      “快速搜索”：1，"quickSearch": 1,
+      “可过滤”：0"filterable": 0
+    },},
+    {{
+      "key": "影库资源","key": "影库资源",
+      "name": "影库资源","name": "影库资源",
+      “类型”：1，"type": 1,
+      "api": "https://api.ykapi.net/api.php/provide/vod/from/ykm3u8/","api": "https://api.ykapi.net/api.php/provide/vod/from/ykm3u8/",
+      “可搜索”：1，"searchable": 1,
+      “快速搜索”：1，"quickSearch": 1,
+      “可过滤”：0"filterable": 0
+    },},
+    {{
+      “密钥”：“91md ”，“密钥”：“91md”，
+      “姓名”：“ 91 ”，“姓名” : “91” ,
+      “类型”：1，“类型”：1 ,
+      “api”：“https://91md.me/api.php/provide/vod/from/mdm3u8/”，“api”：“https://91md.me/api.php/provide/vod/from/ mdm3u8/”，
+      “可搜索”：1，“可搜索” : 1 ,
+      “快速搜索”：1，“快速搜索” : 1 ,
+      “可过滤”：0"filterable": 0
+    },},
     {
       "key": "美少女",
       "name": "美少女",
