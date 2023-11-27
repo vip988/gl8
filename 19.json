@@ -65,8 +65,8 @@
     {
       "key": "森林",
       "name": "森林",
-      "type": 0,
-      "api": "https://slapibf.com/api.php/provide/vod/at/xml",
+      "type": 1,
+      "api": "https://slapibf.com/api.php/provide/vod/?ac=list",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
@@ -86,8 +86,8 @@
     {
       "key": "博民",
       "name": "博民",
-      "type": 0,
-      "api": "https://www.bmzyapi9.com/api.php/provide/vod/at/xml",
+      "type": 1,
+      "api": "https://www.bmzyapi9.com/api.php/provide/vod/?ac=list",
       "searchable": 1,
       "filterable": 1
     },
