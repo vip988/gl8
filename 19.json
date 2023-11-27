@@ -106,10 +106,10 @@
 
 
     {
-      "key": "xjjzyapi.com",
-      "name": "成人25",
+      "key": "皇冠",
+      "name": "皇冠",
       "type": 0,
-      "api": "http://xjjzyapi.com/home/cjapi/askl/mc10/vod/xml",
+      "api": "https://www.partnersky-horoskop.com/api.php/provide/vod/at/xml",
       "searchable": 1,
       "filterable": 1
     },
