@@ -63,10 +63,10 @@
       "filterable": 0
     },
     {
-      "key": "色猫",
-      "name": "色猫",
-      "type": 1,
-      "api": "https://caiji.semaozy.net/inc/apijson_vod.php",
+      "key": "森林",
+      "name": "森林",
+      "type": 0,
+      "api": "https://slapibf.com/api.php/provide/vod/at/xml",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
@@ -84,10 +84,10 @@
       "filterable": 1
     },
     {
-      "key": "api.kudian70.com",
-      "name": "成人12",
-      "type": 1,
-      "api": "http://api.kudian70.com/api.php/provide/vod/",
+      "key": "博民",
+      "name": "博民",
+      "type": 0,
+      "api": "https://www.bmzyapi9.com/api.php/provide/vod/at/xml",
       "searchable": 1,
       "filterable": 1
     },
