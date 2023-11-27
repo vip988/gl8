@@ -97,8 +97,8 @@
     {
       "key": "红袖",
       "name": "红袖",
-      "type": 0,
-      "api": "https://hongxiuzy.com/api.php/provide/vod/?ac=detail",
+      "type": 1,
+      "api": "https://hongxiuzy.com/api.php/provide/vod/?ac=list",
       "searchable": 1,
       "filterable": 1
     },
