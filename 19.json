@@ -83,10 +83,10 @@
       "filterable": 1
     },
     {
-      "key": "博民",
-      "name": "博民",
+      "key": "KK",
+      "name": "KK",
       "type": 1,
-      "api": "https://www.bmzyapi9.com/api.php/provide/vod/?ac=list",
+      "api": "https://kkzy.me/api.php/provide/vod/?ac=list",
       "searchable": 1,
       "filterable": 1
     },
