@@ -109,7 +109,7 @@
       "key": "皇冠",
       "name": "皇冠",
       "type": 0,
-      "api": "https://www.partnersky-horoskop.com/api.php/provide/vod/at/xml",
+      "api": "https://www.partnersky-horoskop.com/api.php/provide/vod/from/dplayer/at/xml",
       "searchable": 1,
       "filterable": 1
     },
