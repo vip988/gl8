@@ -54,10 +54,10 @@
       "filterable": 1
     },
     {
-      "key": "点点",
-      "name": "点点",
+      "key": "草榴",
+      "name": "草榴",
       "type": 0,
-      "api": "https://xx55zyapi.com/home/cjapi/ascf/mc/vod/xml",
+      "api": "https://www.caoliuzyw.com/api.php/prodao/vod/at/xml",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
