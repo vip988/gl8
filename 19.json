@@ -95,10 +95,10 @@
 
 
     {
-      "key": "api.kdapi.info",
-      "name": "成人17",
-      "type": 1,
-      "api": "http://api.kdapi.info/api.php/provide/vod/",
+      "key": "红袖",
+      "name": "红袖",
+      "type": 0,
+      "api": "https://hongxiuzy.com/api.php/provide/vod/?ac=detail",
       "searchable": 1,
       "filterable": 1
     },
