@@ -155,8 +155,7 @@
       "api": "csp_Push",
       "searchable": 1,
       "filterable": 1,
-      "changeable": 0,
-      "ext": "http://121.5.175.65/maoyingshi999/ziyong/token/token.txt"
+      "changeable": 0
     }
   ]
 }
