@@ -62,6 +62,7 @@
       "quickSearch": 1,
       "filterable": 0
     },
+
     {
       "key": "api.sexnguon.com",
       "name": "sex",
@@ -74,6 +75,8 @@
         "ratio": 1.33
       }
     },
+
+
      {
       "key": "红袖",
       "name": "红袖",
@@ -139,7 +142,6 @@
       "filterable": 1,
       "changeable": 0,
       "ext": "http://121.5.175.65/maoyingshi999/ziyong/token/token.txt"
-      "changeable": 0
     }
   ]
 }
