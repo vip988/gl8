@@ -48,7 +48,7 @@
      {
       "key": "mygzycj.com",
       "name": "皇冠",
-      "type": 0,
+      "type": 1,
       "api": "https://hgzy05.com/api.php/provide/vod",
       "searchable": 1,
       "filterable": 1
