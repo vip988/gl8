@@ -217,14 +217,7 @@
       "searchable": 1,
       "quickSearch": 0
     },
-    {
-      "key": "*字幕网",
-      "name": "字幕网",
-      "type": 0,
-      "api": "http://zmcj88.com/sapi?ac=videolist",
-      "searchable": 1,
-      "quickSearch": 0
-    },
+    
     {
       "key": "*利来资源",
       "name": "利来",
@@ -234,14 +227,7 @@
       "quickSearch": 0
     },
     
-    {
-      "key": "*速度资源",
-      "name": "速度",
-      "type": 0,
-      "api": "http://www.ggmmzy.com:9999/inc/xml",
-      "searchable": 1,
-      "quickSearch": 0
-    },
+   
     {
       "key": "push_agent",
       "name": "推送",
@@ -250,7 +236,7 @@
       "searchable": 1,
       "filterable": 1,
       "changeable": 0,
-      "ext": "http://121.5.175.65/maoyingshi999/ziyong/token/token.txt"
+      "ext": "http:///maoyingshi999/ziyong/token/token.txt"
     }
   ]
 }
