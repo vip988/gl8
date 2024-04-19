@@ -31,7 +31,7 @@
       "key": "奥斯卡",
       "name": "奥斯卡",
       "type": 0,
-      "api": "https://aosikazy.com/api.php",
+      "api": "https://aosikazy.com/api.php/provide/vod/at/xml",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
