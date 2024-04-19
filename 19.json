@@ -80,7 +80,7 @@
       "key": "*鲨鱼资源",
       "name": "鲨鱼",
       "type": 0,
-      "api": "http://shayuapi6.com/api.php/provide/vod/at/xml",
+      "api": "http://sybyapi.com/api.php/provide/vod/at/xml",
       "searchable": 1,
       "quickSearch": 0
     },
