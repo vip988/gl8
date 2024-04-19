@@ -79,8 +79,8 @@
     {
       "key": "*鲨鱼资源",
       "name": "鲨鱼",
-      "type": 1,
-      "api": "https://shayuapi6.com/api.php/provide/vod/",
+      "type": 0,
+      "api": "https://shayuapi6.com/api.php/provide/vod/at/xml",
       "searchable": 1,
       "quickSearch": 0
     },
