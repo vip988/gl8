@@ -64,7 +64,7 @@
       "key": "*玖玖资源",
       "name": "玖玖",
       "type": 0,
-      "api": "http://99zywcj.com/inc/sapi.php?ac=videolist",
+      "api": "https://99reapi.com/api.php/provide/vod/at/xml",
       "searchable": 1,
       "quickSearch": 0
     },
@@ -80,7 +80,7 @@
       "key": "*鲨鱼资源",
       "name": "鲨鱼",
       "type": 1,
-      "api": "https://shayuapi.com/api.php/provide/vod/",
+      "api": "https://shayuapi6.com/api.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 0
     },
@@ -138,7 +138,14 @@
       "searchable": 1,
       "quickSearch": 0
     },
-    
+    {
+      "key": "*玉兔",
+      "name": "玉兔",
+      "type": 0,
+      "api": "https://apiyutu.com/api.php/provide/vod/at/xml",
+      "searchable": 1,
+      "quickSearch": 0
+    },
     {
       "key": "美少女",
       "name": "美少女",
