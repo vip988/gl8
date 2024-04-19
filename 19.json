@@ -195,15 +195,6 @@
       "searchable": 1,
       "quickSearch": 0
     },
-    {
-      "key": "91md.me",
-      "name": "91",
-      "type": 1,
-      "api": "http://91md.me/api.php/provide/vod/",
-      "searchable": 1,
-      "filterable": 1
-    },
-    
     
     {
       "key": "api.sexnguon.com",
@@ -217,27 +208,7 @@
         "ratio": 1.33
       }
     },
-    {
-      "key": "红袖",
-      "name": "红袖",
-      "type": 1,
-      "api": "https://hongxiuzy.com/api.php/provide/vod/?ac=list",
-      "searchable": 1,
-      "filterable": 1
-    },
-    
-    
-    {
-      "key": "*色窝资源",
-      "name": "se窝",
-      "type": 1,
-      "api": "https://sewozyapi.com/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 0
-    },
-    
-    
-    
+  
     {
       "key": "*CK资源",
       "name": "CK资源",
